@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark" alt="Top languages" />
 
 <!-- GitHub Streak Stats -->
-https://streak-stats.demolab.com?user=Bassamkhalid011&theme=radical
+<img src="https://streak-stats.demolab.com?user=Bassamkhalid011&theme=radical" alt="GitHub Streak" />
 
 <br>
 
