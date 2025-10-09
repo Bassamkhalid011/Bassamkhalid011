@@ -42,4 +42,4 @@
 
 ## 📫 How to reach me
 
-- Email: Bassamkhalid644@gmail.com
+- Email: bassamkhalid644@gmail.com
