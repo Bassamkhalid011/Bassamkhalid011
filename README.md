@@ -34,6 +34,8 @@
 
 <!-- Contribution graph (3rd-party, optional) -->
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bassamkhalid011&theme=dracula)
+<br>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Bassamkhalid011&theme=dracula)](https://git.io/streak-stats)
 
 ---
 
