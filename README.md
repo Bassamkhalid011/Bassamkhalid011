@@ -33,11 +33,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark" alt="Top languages" />
 
 <!-- Contribution graph (3rd-party, optional) -->
-<img src="https://activity-graph.herokuapp.com/graph?username=Bassamkhalid011&theme=react-dark" alt="Contribution graph" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&theme=dracula)
 
 ---
 
 ## 📫 How to reach me
 
 - Email: Bassamkhalid644@gmail.com
-- Portfolio: https://Bassamkhalid011.github.io
