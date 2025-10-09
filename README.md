@@ -1,0 +1,43 @@
+# Hi there 👋
+
+- 🌱 I’m currently learning Java,C++ and python.
+-- Trying to learn new thins.
+
+---
+
+## 🧰 Languages & Tools
+
+<!-- Language / Tech badges (Shields.io) -->
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## 🛠 Tools I Use
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+---
+
+## 📊 GitHub Stats
+
+<!-- Replace USERNAME with your GitHub username -->
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="GitHub stats" />
+
+<!-- Top languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="Top languages" />
+
+<!-- Contribution graph (3rd-party, optional) -->
+<img src="https://activity-graph.herokuapp.com/graph?username=USERNAME&theme=react-dark" alt="Contribution graph" />
+
+---
+
+## 📫 How to reach me
+
+- Email: youremail@example.com  
+- Portfolio: https://USERNAME.github.io
