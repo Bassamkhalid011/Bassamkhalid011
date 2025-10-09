@@ -35,7 +35,10 @@
 <!-- GitHub Streak Stats -->
 ### 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bassamkhalid011&theme=dark&hide_border=true)](https://git.io/streak-stats)
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Bassamkhalid011&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
 
 <br>
