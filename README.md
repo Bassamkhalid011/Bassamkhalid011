@@ -1,7 +1,7 @@
 # Hi there 👋
 
 - 🌱 I’m currently learning Java,C++ and python.
--- Trying to learn new thins.
+-- Trying to learn new things.
 
 ---
 
