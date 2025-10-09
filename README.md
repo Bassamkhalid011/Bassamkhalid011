@@ -32,12 +32,13 @@
 <!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark" alt="Top languages" />
 
-<!-- Contribution graph (3rd-party, optional) -->
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bassamkhalid011&theme=dracula)
-<br>
+<!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Bassamkhalid011&theme=dracula)](https://git.io/streak-stats)
 
----
+<br>
+
+<!-- Contribution Graph -->
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bassamkhalid011&theme=dracula)
 
 ## 📫 How to reach me
 
