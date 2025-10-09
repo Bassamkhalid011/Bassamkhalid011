@@ -1,6 +1,6 @@
 # Hi there 👋
 
-- 🌱 I’m currently learning Java,C++ and python.
+-  I’m currently learning Java,C++ and python.
 -- Trying to learn new things.
 
 ---
