@@ -27,17 +27,17 @@
 ## 📊 GitHub Stats
 
 <!-- Replace USERNAME with your GitHub username -->
-<img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?Bassamkhalid011=USERNAME&show_icons=true&theme=dark" alt="GitHub stats" />
 
 <!-- Top languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?Bassamkhalid011=USERNAME&layout=compact&theme=dark" alt="Top languages" />
 
 <!-- Contribution graph (3rd-party, optional) -->
-<img src="https://activity-graph.herokuapp.com/graph?username=USERNAME&theme=react-dark" alt="Contribution graph" />
+<img src="https://activity-graph.herokuapp.com/graph?Bassamkhalid011=USERNAME&theme=react-dark" alt="Contribution graph" />
 
 ---
 
 ## 📫 How to reach me
 
-- Email: youremail@example.com  
-- Portfolio: https://USERNAME.github.io
+- Email: Bassamkhalid644@gmail.com 
+- Portfolio: https://Bassamkhalid011.github.io
