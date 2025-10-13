@@ -35,6 +35,7 @@
 <!-- GitHub Streak Stats -->
 
 ### 🔥 GitHub Streak
+> Language breakdown: Java + C++
 
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=Bassamkhalid011&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
