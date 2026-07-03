@@ -42,17 +42,16 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bassam's GitHub stats" />
-</p>
+[![Bassam's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/Bassamkhalid011)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Bassamkhalid011)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bassamkhalid011&theme=tokyonight&hide_border=true)](https://github.com/Bassamkhalid011)
+
+## 📈 Profile Views & Followers
+
+![Profile views](https://komarev.com/ghpvc/?username=Bassamkhalid011&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Bassamkhalid011?style=for-the-badge&color=blue)
 
 ## 💼 Skills
 - Computer Vision with OpenCV
