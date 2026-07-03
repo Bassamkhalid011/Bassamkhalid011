@@ -14,7 +14,7 @@ Learning Java, C++, and Python | Building projects with OpenCV and Streamlit
 </div>
 
 ## Background
-AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently working on computer vision, web scraping, and automation projects.
+AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently working on computer vision, web scraping, and automation projects. Open to select freelance or contract work.
 
 ## 🧰 Languages & Tools
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -42,15 +42,14 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=dark)
-
-## 📈 Top Languages 
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark)
+<a href="https://github.com/Bassamkhalid011">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bassam's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark&langs_count=8" alt="Top Languages"/>
+</a>
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bassamkhalid011&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bassamkhalid011&theme=dark&hide_border=true)
 
 ## 💼 Skills
 - Computer Vision with OpenCV
