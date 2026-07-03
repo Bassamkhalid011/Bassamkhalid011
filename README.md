@@ -42,14 +42,17 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 
 ## 📊 GitHub Stats
 
-<a href="https://github.com/Bassamkhalid011">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Bassam's GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=dark&langs_count=8" alt="Top Languages"/>
-</a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Bassam's GitHub stats" />
+</p>
 
-## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bassamkhalid011&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ## 💼 Skills
 - Computer Vision with OpenCV
