@@ -11,7 +11,7 @@
 ---
 
 ### Background
-AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently working on computer vision, web scraping, and automation projects. Open to select freelance or contract work.
+AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently working on computer vision, web scraping, and automation projects.
 
 ---
 
@@ -56,3 +56,12 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 </div>
+
+## ⚡ GitHub Activity:
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
