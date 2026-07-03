@@ -8,7 +8,7 @@
 
 Learning Java, C++, and Python | Building projects with OpenCV and Streamlit
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bassamkhalid011/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/bassam-khalid-09909831a)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bassamkhalid644@gmail.com)
 
 </div>
