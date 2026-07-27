@@ -58,5 +58,5 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 
 ## ⚡ GitHub Activity:
 <p align="left">
-  <img src="https://ghchart.rshah.org/Bassamkhalid011" alt="GitHub Contribution Chart" />
+  <img src="https://ghchart.rshah.org/39d353/Bassamkhalid011" alt="GitHub Contribution Chart" />
 </p>
