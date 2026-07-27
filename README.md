@@ -59,7 +59,7 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 
 ## ⚡ GitHub Activity:
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Bassamkhalid011&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
