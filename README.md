@@ -56,7 +56,3 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 </div>
 
-## ⚡ GitHub Activity:
-<p align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bassamkhalid011&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph" />
-</p>
