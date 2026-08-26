@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="360" viewBox="0 0 420 360">
+  <rect width="420" height="360" rx="10" fill="#FFFFFF"/>
+  <polygon points="210.0,160.0 236.0,175.0 236.0,205.0 210.0,220.0 184.0,205.0 184.0,175.0" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+  <polygon points="210.0,130.0 262.0,160.0 262.0,220.0 210.0,250.0 158.0,220.0 158.0,160.0" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+  <polygon points="210.0,100.0 287.9,145.0 287.9,235.0 210.0,280.0 132.1,235.0 132.1,145.0" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+  <polygon points="210.0,70.0 313.9,130.0 313.9,250.0 210.0,310.0 106.1,250.0 106.1,130.0" fill="none" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="210.0" y2="70.0" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="313.9" y2="130.0" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="313.9" y2="250.0" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="210.0" y2="310.0" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="106.1" y2="250.0" stroke="#D0D7DE" stroke-width="1"/>
+  <line x1="210" y1="190" x2="106.1" y2="130.0" stroke="#D0D7DE" stroke-width="1"/>
+  <polygon points="210.0,70.0 309.8,132.4 278.6,229.6 210.0,263.2 154.9,221.8 203.8,186.4" fill="#6366F115" stroke="#6366F1" stroke-width="2"/>
+  <circle cx="210.0" cy="70.0" r="4" fill="#6366F1"/>
+  <circle cx="309.8" cy="132.4" r="4" fill="#6366F1"/>
+  <circle cx="278.6" cy="229.6" r="4" fill="#6366F1"/>
+  <circle cx="210.0" cy="263.2" r="4" fill="#6366F1"/>
+  <circle cx="154.9" cy="221.8" r="4" fill="#6366F1"/>
+  <circle cx="203.8" cy="186.4" r="4" fill="#6366F1"/>
+  <text x="210.0" y="36.4" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">Jupyter Notebook</text>
+  <text x="210.0" y="49.4" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">100</text>
+  <text x="343.0" y="113.2" text-anchor="start" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">Python</text>
+  <text x="343.0" y="126.2" text-anchor="start" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">96</text>
+  <text x="343.0" y="266.8" text-anchor="start" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">C++</text>
+  <text x="343.0" y="279.8" text-anchor="start" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">66</text>
+  <text x="210.0" y="343.6" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">Java</text>
+  <text x="210.0" y="356.6" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">61</text>
+  <text x="77.0" y="266.8" text-anchor="end" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">TypeScript</text>
+  <text x="77.0" y="279.8" text-anchor="end" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">53</text>
+  <text x="77.0" y="113.2" text-anchor="end" font-family="JetBrains Mono,monospace" font-size="11" fill="#656D76">JavaScript</text>
+  <text x="77.0" y="126.2" text-anchor="end" font-family="JetBrains Mono,monospace" font-size="10" fill="#6366F1" font-weight="600">6</text>
+  <text x="210" y="22" text-anchor="middle" font-family="JetBrains Mono,monospace" font-size="12" fill="#656D76" letter-spacing="2">LANG RADAR · REAL BYTES</text>
+</svg>

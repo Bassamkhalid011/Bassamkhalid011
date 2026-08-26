@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="160" viewBox="0 0 420 160">
+  <rect width="420" height="160" rx="10" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+  <rect width="4" height="160" rx="2" fill="#6366F1"/>
+  <text x="20" y="38" font-family="JetBrains Mono,monospace" font-size="14" font-weight="700" fill="#E6EDF3">-PropSense-</text>
+  <text x="20" y="72" font-family="Inter,sans-serif" font-size="12" fill="#8B949E">ML web app that predicts Islamabad house prices from</text>
+  <text x="20" y="90" font-family="Inter,sans-serif" font-size="12" fill="#8B949E">scraped Zameen.com data. Nine models compared â€” XGBoost,</text>
+  <text x="20" y="108" font-family="Inter,sans-serif" font-size="12" fill="#8B949E">LightGBM, CatBoost â€” served through a Streamlit</text>
+  
+  <circle cx="20" cy="138" r="5" fill="#6366F1"/>
+  <text x="30" y="142" font-family="JetBrains Mono,monospace" font-size="11" fill="#8B949E">Jupyter Notebook</text>
+  <text x="330" y="142" font-family="JetBrains Mono,monospace" font-size="11" fill="#8B949E">★ 0  ⑂ 0</text>
+</svg>

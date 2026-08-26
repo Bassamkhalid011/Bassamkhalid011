@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "repo": "-PropSense-",
+      "description": "ML web app that predicts Islamabad house prices from scraped Zameen.com data. Nine models compared — XGBoost, LightGBM, CatBoost — served through a Streamlit dashboard."
+    },
+    {
+      "repo": "flyrank-ai-workflow",
+      "description": "Visual AI workflow builder where every node is an LLM decision (YES/NO). Runs 100% locally via Ollama — no API key, no cloud spend."
+    },
+    {
+      "repo": "Face-Detection-Attendance-System",
+      "description": "Real-time face recognition attendance system. Recognised faces are logged to Oracle DB with timestamps; a Streamlit dashboard handles reports and student management."
+    },
+    {
+      "repo": "capstone-metering-billing",
+      "description": "Multi-tenant SaaS billing engine. Idempotent usage metering, quota enforcement (429/402), AI token cost calculation, and Stripe Checkout — all on FastAPI and PostgreSQL."
+    }
+  ]
+}

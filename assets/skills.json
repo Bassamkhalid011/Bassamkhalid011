@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "color": "#6366F1",
+  "axes": [
+    { "label": "Python",          "value": 90 },
+    { "label": "Machine Learning","value": 82 },
+    { "label": "Computer Vision", "value": 78 },
+    { "label": "Data Science",    "value": 74 },
+    { "label": "FastAPI / REST",  "value": 70 },
+    { "label": "TypeScript",      "value": 64 },
+    { "label": "C++",             "value": 45 }
+  ]
+}
