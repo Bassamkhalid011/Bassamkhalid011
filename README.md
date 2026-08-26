@@ -1,157 +1,58 @@
-<div align="center">
+﻿<h1 align="center">Bassam Khalid</h1>
+<h3 align="center">AI/ML Student exploring computer vision and automation</h3>
+<p align="center">
+  Learning Java, C++, and Python | Building projects with OpenCV and Streamlit
+</p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bassam-khalid-09909831a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:bassamkhalid644@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-<picture>
-  <img src="assets/portrait.svg" width="220" alt="Bassam Khalid">
-</picture>
+---
 
-<br />
+### Background
+AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently working on computer vision, web scraping, and automation projects.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=6366F1&center=true&vCenter=true&width=560&lines=Bassam+Khalid;AI+Engineer+%26+ML+Builder;Building+systems+that+think" alt="typing">
+---
 
-<br /><br />
+### Stack
 
-<a href="mailto:bassamraja123@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://github.com/Bassamkhalid011"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
-<img src="https://komarev.com/ghpvc/?username=Bassamkhalid011&color=6366f1&label=profile+views&style=flat-square">
+**Languages**  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+**AI / ML**  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+**Data & Visualization**  
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Tools**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
+
+---
+
+## 📊 GitHub Stats:
+<div align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" width="42%" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
 </div>
 
----
-
-## `~/` whoami
-
-```console
-$ cat about.txt
-```
-
-Hi, I'm **Bassam Khalid** — an AI student at COMSATS University, Islamabad. I build ML systems, vision pipelines, and APIs that do something real.
-
-- Currently building **[PropSense](https://github.com/Bassamkhalid011/-PropSense-)** — predicts Islamabad property prices from scraped Zameen.com data, nine models compared
-- Learning **multi-agent orchestration and LLM evaluation pipelines**
-- Based in **Rawalpindi, Pakistan**
-- Open to **AI/ML internships and research collaborations**
-
----
-
-## `~/` toolbox
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,fastapi,ts,nextjs,react,postgres,docker,git,cpp,java,vscode,jupyter&perline=8">
-
----
-
-## `~/` radar
-
-<table><tr>
-
-<td width="50%" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-light.svg">
-  <img src="assets/radar-dark.svg" width="380" alt="skill radar">
-</picture>
-
-</td>
-
-<td width="50%" align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/radar-langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/radar-langs-light.svg">
-  <img src="assets/radar-langs-dark.svg" width="380" alt="language radar">
-</picture>
-
-</td>
-
-</tr></table>
-
----
-
-## `~/` activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/metrics.light.svg">
-  <img src="assets/metrics.svg" width="100%" alt="contribution metrics">
-</picture>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bassamkhalid011/Bassamkhalid011/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bassamkhalid011/Bassamkhalid011/output/snake.svg">
-  <img src="https://raw.githubusercontent.com/Bassamkhalid011/Bassamkhalid011/output/snake-dark.svg" alt="contribution snake">
-</picture>
-
-</div>
-
----
-
-## `~/` stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
-  <img src="assets/card-stats-dark.svg" width="100%" alt="github stats">
-</picture>
-
----
-
-## `~/` projects
-
-<table><tr>
-
-<td width="50%">
-<a href="https://github.com/Bassamkhalid011/-PropSense-">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card--PropSense--dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card--PropSense--light.svg">
-  <img src="assets/card--PropSense--dark.svg" width="420" alt="PropSense">
-</picture>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/Bassamkhalid011/flyrank-ai-workflow">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-flyrank-ai-workflow-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-flyrank-ai-workflow-light.svg">
-  <img src="assets/card-flyrank-ai-workflow-dark.svg" width="420" alt="AI Workflow Builder">
-</picture>
-</a>
-</td>
-
-</tr><tr>
-
-<td width="50%">
-<a href="https://github.com/Bassamkhalid011/Face-Detection-Attendance-System">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-Face-Detection-Attendance-System-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-Face-Detection-Attendance-System-light.svg">
-  <img src="assets/card-Face-Detection-Attendance-System-dark.svg" width="420" alt="Face Attendance">
-</picture>
-</a>
-</td>
-
-<td width="50%">
-<a href="https://github.com/Bassamkhalid011/capstone-metering-billing">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/card-capstone-metering-billing-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/card-capstone-metering-billing-light.svg">
-  <img src="assets/card-capstone-metering-billing-dark.svg" width="420" alt="Metering & Billing">
-</picture>
-</a>
-</td>
-
-</tr></table>
-
-<sub>
-
-| project | stack | link |
-|---|---|---|
-| **PropSense** | Python · Streamlit · XGBoost · LightGBM · Selenium | [repo](https://github.com/Bassamkhalid011/-PropSense-) |
-| **AI Workflow Builder** | Next.js 14 · React Flow · Inngest · Ollama · TypeScript | [repo](https://github.com/Bassamkhalid011/flyrank-ai-workflow) |
-| **Face Attendance** | Python · OpenCV · face\_recognition · Streamlit · Oracle DB | [repo](https://github.com/Bassamkhalid011/Face-Detection-Attendance-System) |
-| **Metering & Billing** | Python · FastAPI · PostgreSQL · Stripe | [repo](https://github.com/Bassamkhalid011/capstone-metering-billing) |
-
-</sub>
