@@ -50,9 +50,10 @@ AI/ML engineer pursuing a Bachelor's in Artificial Intelligence, currently worki
 ---
 
 ## 📊 GitHub Stats:
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bassamkhalid011&layout=compact&theme=tokyonight&langs_count=10&cache_seconds=1800" alt="Top Languages" width="42%" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=Bassamkhalid011&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/card-stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-stats-light.svg">
+  <img src="assets/card-stats-dark.svg" width="100%" alt="GitHub Stats">
+</picture>
 
